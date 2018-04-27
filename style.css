@@ -1,0 +1,35 @@
+h1{
+	color: red;
+	font-size: 50px;
+	font-family: 'Do Hyeon', sans-serif;
+}
+
+.beautifulimage{
+	border: 5px solid #ffd17c;
+}
+.beautifulimage:hover{
+	border: 5px solid #ff5e71;
+}
+
+#headingTwo{
+	background-color: #e3f9f4;
+	padding: 20px;
+	font-size: 30px;
+	color: green;
+	text-transform: uppercase;
+}
+
+.first-paragraph{
+
+	background-color: #333;
+	color: #ffffff;
+	padding: 10px;
+}
+
+.imageDiv{
+	margin: 50px 20px 0px 100px;
+}
+
+.forms input{
+	font-size: 20px;
+}
